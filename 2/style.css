@@ -1,0 +1,13 @@
+.big_box{
+    width: 450px;
+    height: 450px;
+    position: relative;
+    border: 1px solid;
+}
+
+.small_box{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    position: absolute;
+}
